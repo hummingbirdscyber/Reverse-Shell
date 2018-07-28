@@ -12,4 +12,4 @@ After client has been hacked..
 
 **Disclaimer:** I wrote this tool to answer what's the idea behind of the reverse shell so just use only educational purposes.
 
-E-mail : fcelik.ft@gmail.com
+E-mail:fcelik.ft@gmail.com
