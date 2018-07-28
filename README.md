@@ -4,11 +4,11 @@ Finally,you have to install cv2 and pyautogui libraries on client' computer.
 
 **CommandLine~$ python3 server.py**
 
-![Reverse Shell on Server](https://github.com/fatihhcelik/Cyber-Security-Tools/blob/master/Reverse%20Shell/screenshot.png)
+![Reverse Shell on Server](https://github.com/fatihhcelik/Reverse-Shell/blob/master/screenshot.png)
 
 After client has been hacked..
 
-![Reverse Shell on Server](https://github.com/fatihhcelik/Cyber-Security-Tools/blob/master/Reverse%20Shell/screenshot2.png)
+![Reverse Shell on Server](https://github.com/fatihhcelik/Reverse-Shell/blob/master/screenshot2.png)
 
 **Disclaimer:** I wrote this tool to answer what's the idea behind of the reverse shell so just use only educational purposes.
 
